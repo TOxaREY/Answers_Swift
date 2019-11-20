@@ -16,6 +16,7 @@ What statements about the following code are true?
 □ The code will print  _*abstract sound_* when run.
 
 □ The code will print  _Meaow!_  when run.
+
 [Answer 1](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_1.playground)
 
 ---
