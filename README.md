@@ -1,7 +1,7 @@
 # Answers Swift
 #### ноябрь 2019
 ---
-##### Answer 1
+##### Question 1
 What statements about the following code are true?
 
 ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/Answer_1.png)
@@ -21,7 +21,7 @@ What statements about the following code are true?
 
 ---
 
-##### Answer 2
+##### Question 2
 After the layout settles, what is the  frame  of  wrapped  in the following code?
 
 ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/Answer_2.png)
