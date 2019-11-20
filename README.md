@@ -20,3 +20,19 @@ What statements about the following code are true?
 [Answer 1](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_1.playground)
 
 ---
+
+##### Answer 2
+After the layout settles, what is the  frame  of  wrapped  in the following code?
+
+![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/Answer_2.png)
+○ (50, 100, 50, 50)
+
+○ (25, 75, 50, 50)
+
+○ (25, 125, 50, 50)
+
+○ (50, 50, 50, 50)
+
+[Answer 2](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_2.playground)
+
+---
