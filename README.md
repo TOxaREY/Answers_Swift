@@ -17,7 +17,7 @@
 
 □ Код будет печатать _Meaow!_ при запуске.
 
-[Answer 1](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_1.playground)
+[Answer 1](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_1.playground/Contents.swift)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ○ (50, 50, 50, 50)
 
-[Answer 2](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_2.playground)
+[Answer 2](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_2.playground/Contents.swift)
 
 ---
 
@@ -51,7 +51,7 @@
 
 ○ D, C, A, B
 
-[Answer 3](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_3.playground)
+[Answer 3](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_3.playground/Contents.swift)
 
 ---
 
@@ -62,7 +62,7 @@
 ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/Answer_28.png)
 
 
-[Answer 28](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_28.playground)
+[Answer 28](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_28.playground/Contents.swift)
 
 ---
 
@@ -78,7 +78,7 @@
 Примечание (для PHP): индексы элементов массива должны начинаться с 0.
 
 
-[Answer 29](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_29.playground)
+[Answer 29](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_29.playground/Contents.swift)
 
 ---
 
@@ -94,7 +94,7 @@
 * 0 <= k <= 1000000
 * 0 <= arr[i] <= 1000000
 
-[Answer 30](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_30.playground)
+[Answer 30](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_30.playground/Contents.swift)
 
 ---
 
