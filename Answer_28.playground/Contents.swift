@@ -1,4 +1,4 @@
-import Foundation
+ import Foundation
 
 func maxdiff(arr:[Int]) -> Int {
     var diff = 0

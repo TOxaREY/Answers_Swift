@@ -2,27 +2,27 @@
 #### декабрь 2019
 ---
 #### Question 1
-What statements about the following code are true?
+Какие утверждения о следующем коде верны?
 
 ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/Answer_1.png)
-□ You cannot extend the  _Cat_  struct to add a protocol conformance in this way.
+□ Вы не можете расширить структуру _Cat_, чтобы добавить соответствие протокола таким способом.
 
-□ You cannot extend a protocol to add a default  _makeSound_  implementation in this way.
+□ Вы не можете расширить протокол, чтобы добавить реализацию _makeSound_ по умолчанию таким способом.
 
-□ It's undefined whether Audible.makeSound or Cat.makeSound will be called in target.makeSound().
+□ Не определено, будут ли Audible.makeSound или Cat.makeSound вызываться в target.makeSound ().
 
-□ You cannot use the protocol as a type name in  _let audible: Audible = Cat()._
+□ Вы не можете использовать протокол в качестве имени типа в _let audible: Audible = Cat () ._
 
-□ The code will print  _*abstract sound_* when run.
+□ Код будет печатать _ * abstract sound_ * при запуске.
 
-□ The code will print  _Meaow!_  when run.
+□ Код будет печатать _Meaow!_ при запуске.
 
 [Answer 1](https://github.com/TOxaREY/Answers_Swift/blob/master/Answer_1.playground)
 
 ---
 
 #### Question 2
-After the layout settles, what is the  frame  of  wrapped  in the following code?
+После того, как макет установится, какой будет frame заключен в следующий код?
 
 ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/Answer_2.png)
 ○ (50, 100, 50, 50)
@@ -38,7 +38,7 @@ After the layout settles, what is the  frame  of  wrapped  in the following code
 ---
 
 #### Question 3
-In what order will the print statements in the following code execute?
+В каком порядке будут выполняться операторы печати в следующем коде?
 
 ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/Answer_3.png)
 ○ C, D, A, B
