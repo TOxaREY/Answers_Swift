@@ -40,7 +40,7 @@
 * 0 <= k <= 1000000
 * 0 <= arr[i] <= 1000000
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/Task/Task_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/task/Task_3.playground/Contents.swift)
 
 ---
 
