@@ -12,4 +12,4 @@ func fourLetters(sentence: String) -> Int {
 }
 
 let names = "Tror Gvigris Deriana Nori"
-print(fourLetters(sentence: names)) //2
+fourLetters(sentence: names) //2
