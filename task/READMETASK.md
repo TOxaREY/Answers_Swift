@@ -65,3 +65,22 @@
 [ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/task/Task_5.playground/Contents.swift)
 
 ---
+
+#### Задание 6
+Массив из N элементов размещается в бочках. i-й элемент имеет массу dwarfs[i]. Бочки могут выдержать массу не более limit.
+Каждая бочка вмещает не более 2 элементов при условии что их суммарная масса не превышает limit.
+Напишите функцию, определяющую минимальное количество требуемых бочек.
+
+На входе:  
+* dwarfs - массив элементов, каждое значение определяет массу элемента 
+* limit - максимальная масса, которую выдержит бочка
+
+На выходе: целое число - минимальное количество бочек
+Примечание: 1 <= dwarfs[i] <= limit  
+Пример:
+
+![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/Task_6.png)
+
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/task/Task_6.playground/Contents.swift)
+
+---
