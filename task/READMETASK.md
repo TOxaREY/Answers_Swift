@@ -40,4 +40,14 @@
 
 ---
 
+#### Задание 4
+Напишите функцию, которая принимает предложение и возвращает количество содержащихся в нем четырехбуквенных слов.
+Входной аргумент sentence — строка со словами, разделенными пробелами без пунктуации.
+Пример:
+
+![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/Task_4.png)
+
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/task/Task_4.playground/Contents.swift)
+
+---
 
