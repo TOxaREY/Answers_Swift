@@ -84,3 +84,28 @@
 [ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/task/Task_6.playground/Contents.swift)
 
 ---
+
+#### Задание 7
+Герои по очереди вступают в бой с одним из n врагов. Каждый герой может продержаться в бою heroes[i] минут. Определите время, за которое герои погибнут.  
+
+На входе: 
+
+heroes - массив целых неотрицательных чисел. Каждое число обозначает героя в очереди на поединок с врагом и имеет значение, равное времени, которое он может выстоять в бою
+n - количество врагов (всегда больше 0)
+На выходе: число (int) - время, за которое враги расправятся со всеми участниками  
+
+Пример: 
+1. если враг один, то общее время равно сумме времени каждого участника  
+
+![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/Task_7_1.png)
+2.  врагов два, но второй, третий и четвертый участники падут раньше первого
+
+![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/Task_7_2.png)
+3. врагов два, первый участник падет, затем третий будет биться с тем же врагом
+
+![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/Task_7_3.png)
+
+
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/task/Task_7.playground/Contents.swift)
+
+---
