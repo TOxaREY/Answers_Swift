@@ -124,7 +124,7 @@
 
 ○ Нет, только объекты списка свойств (property-list) могут быть сохранены в user defaults.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_7.playground/Contents.swift)
 
 ---
 
@@ -142,7 +142,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Между таймером и MyObject существует цикл сохранения, поэтому ни один из них никогда не будет освобожден.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_8.playground/Contents.swift)
 
 ---
 
@@ -163,7 +163,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ UITableView.delegate не может реализовать протокол UITableViewDataSource.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_9.playground/Contents.swift)
 
 ---
 
@@ -186,7 +186,7 @@ self.update() вызовет исключение «нет такого мето
 
 □ Здесь нет цикла сохранения.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_10.playground/Contents.swift)
 
 ---
 
@@ -206,7 +206,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Оба должны работать в глобальной очереди, чтобы они не заморозили UI.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_11.playground/Contents.swift)
 
 ---
 
@@ -225,7 +225,7 @@ self.update() вызовет исключение «нет такого мето
 
 □ VC #1 будет освобожден после подключения к корневому VC.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_12.playground/Contents.swift)
 
 ---
 
@@ -250,7 +250,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Порядок не определен, но это будет либо "before", "observer", "after" или "before", "after", "observer", в зависимости от того, какая очередь post() запущена.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_13.playground/Contents.swift)
 
 ---
 
@@ -269,7 +269,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Этот подход неверен. Это должно быть реализовано другим способом, например, с DispatchQueue.asyncAfter.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_14.playground/Contents.swift)
 
 ---
 
@@ -291,7 +291,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Использование триггера didSet для свойства userName.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_15.playground/Contents.swift)
 
 ---
 
@@ -308,7 +308,7 @@ self.update() вызовет исключение «нет такого мето
 
 □ Вызов self.first может произвести сбой во время выполнения, если коллекция пуста.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_16.playground/Contents.swift)
 
 ---
 
@@ -327,7 +327,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Он не скомпилируется, потому что мы не можем сравнивать объекты на равенство без соответствия Equatable.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_17.playground/Contents.swift)
 
 ---
 
@@ -350,7 +350,7 @@ self.update() вызовет исключение «нет такого мето
 
 □ Аргумент закрытия (completion) замыкания должен быть помечен как @escaping.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_18.playground/Contents.swift)
 
 ---
 
@@ -373,7 +373,7 @@ self.update() вызовет исключение «нет такого мето
 
 □ ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/QA_19_7.png)
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_19.playground/Contents.swift)
 
 ---
 
@@ -394,7 +394,7 @@ self.update() вызовет исключение «нет такого мето
 ○ x: ReferenceWritableKeyPath<Cat, String> 
   y: Key Path<Cat, String>
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_20.playground/Contents.swift)
 
 ---
 
@@ -403,7 +403,7 @@ self.update() вызовет исключение «нет такого мето
 
 ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/QA_21.png)
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_21.playground/Contents.swift)
 
 ---
 
@@ -412,14 +412,14 @@ self.update() вызовет исключение «нет такого мето
 
 ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/QA_22.png)
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_22.playground/Contents.swift)
 
 ---
 
 #### Вопрос-Ответ 23
 Описаны 4 потока (3 - асинхронных, 1 - синхронный). Напишите код обработчика так, чтобы после выполнения 3-х асинхронных потоков был выполнен синхронный.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_23.playground/Contents.swift)
 
 ---
 
@@ -428,14 +428,14 @@ self.update() вызовет исключение «нет такого мето
 
 ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/QA_24.png)
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_24.playground/Contents.swift)
 
 ---
 
 #### Вопрос-Ответ 25
 Напишите, пожалуйста, на Swift функцию (метод), которая будет печатать числа от 0 до 1000, кратные трём и не кратные пяти, сумма цифр в которых меньше десяти.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_25.playground/Contents.swift)
 
 ---
 
@@ -444,7 +444,7 @@ self.update() вызовет исключение «нет такого мето
 
 ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/QA_26.png)
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_26.playground/Contents.swift)
 
 ---
 
@@ -454,7 +454,7 @@ self.update() вызовет исключение «нет такого мето
 Приложение также должно уметь работать в офлайн-режиме: если пользователь добавил, отредактировал или удалил элемент, эти изменения должны сохраниться на сервере, когда появится доступ в Интернет, даже если приложение было закрыто.
 Какие проблемы и сложности такой архитектуры клиент-серверного взаимодействия Вы видите? Как их решать? Знакомы ли Вам какие-либо типовые решения таких задач? Если не знакомы, пожалуйста, спроектируйте и опишите архитектуру, которая "будет работать".
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_27.playground/Contents.swift)
 
 ---
 
@@ -469,7 +469,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Диапазон stride(from:to:by:) включает значение параметра to, а диапазон stride(from:through:by:) не включает значение параметра through
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_28.playground/Contents.swift)
 
 ---
 
@@ -484,7 +484,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/QA_29_4.png)
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_29.playground/Contents.swift)
 
 ---
 
@@ -499,7 +499,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Объявить параметр как переменный, используя ключевое слово var
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_30.playground/Contents.swift)
 
 ---
 
@@ -514,7 +514,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Array, Set, Dictionary
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_31.playground/Contents.swift)
 
 ---
 
@@ -531,7 +531,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Значение переменной отсутствует
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_32.playground/Contents.swift)
 
 ---
 
@@ -546,7 +546,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Замыкания — это ссылочный тип
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_33.playground/Contents.swift)
 
 ---
 
@@ -563,7 +563,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Заменить "let" на "var"
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_34.playground/Contents.swift)
 
 ---
 
@@ -580,7 +580,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Optional(O)
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_35.playground/Contents.swift)
 
 ---
 
@@ -603,7 +603,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ 1 и 3
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_36.playground/Contents.swift)
 
 ---
 
@@ -626,6 +626,6 @@ self.update() вызовет исключение «нет такого мето
 
 ○ 1,2 и 3
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_37.playground/Contents.swift)
 
 ---
