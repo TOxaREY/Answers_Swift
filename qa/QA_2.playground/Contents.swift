@@ -38,9 +38,18 @@ class MyViewController : UIViewController {
 }
 // Present the view controller in the Live View window
 PlaygroundPage.current.liveView = MyViewController()
-//Смысл ответа в том что The default coordinate system in UIKit has its origin in the top-left corner and has axes that extend down and to the right from the origin point, т.е. начало координат в левом верхнем углу.
-// - (50, 100, 50, 50)
-// + (25, 75, 50, 50)
-// - (25, 125, 50, 50)
-// - (50, 50, 50, 50)
+/*Смысл ответа в том что The default coordinate system in UIKit has its origin in
+the top-left corner and has axes that extend down and to the right from the origin point,
+т.е. начало координат в левом верхнем углу и init(x: Int, y: Int, width: Int, height: Int)*/
+ 
+/*
+ ○ (50, 100, 50, 50)
+
+ ● (25, 75, 50, 50)
+
+ ○ (25, 125, 50, 50)
+
+ ○ (50, 50, 50, 50)
+ */
+
 

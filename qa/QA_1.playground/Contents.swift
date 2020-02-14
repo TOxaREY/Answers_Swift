@@ -34,3 +34,16 @@ speak(audible)
 // -    You cannot use the protocol as a type name in let audible: Audible = Cat().
 // -    The code will print *abstract sound* when run.
 // +    The code will print Meaow! when run.
+/*
+□ Вы не можете расширить структуру _Cat_, чтобы добавить соответствие протокола таким способом.
+
+□ Вы не можете расширить протокол, чтобы добавить реализацию _makeSound_ по умолчанию таким способом.
+
+□ Не определено, будут ли Audible.makeSound или Cat.makeSound вызываться в target.makeSound ().
+
+□ Вы не можете использовать протокол в качестве имени типа в _let audible: Audible = Cat () ._
+
+□ Код будет печатать _ * abstract sound_ * при запуске.
+
+■ Код будет печатать _Meaow!_ при запуске.
+*/

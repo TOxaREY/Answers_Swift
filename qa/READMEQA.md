@@ -75,7 +75,7 @@
 
 ○ Нет никакой разницы. Два вызова идентичны.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_4.playground/Contents.swift)
 
 ---
 
@@ -90,7 +90,7 @@
 
 ○ nil
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_5.playground/Contents.swift)
 
 ---
 
@@ -109,7 +109,7 @@
 
 ○ В приложении не может быть другого основного потока (main thread), и код будет зависать (crash) при инициализации первого DispatchQueue.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_3.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_6.playground/Contents.swift)
 
 ---
 

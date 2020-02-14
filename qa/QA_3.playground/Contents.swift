@@ -17,12 +17,18 @@ DispatchQueue.main.async {
     print("C")
 }
 print("D")
-// - C, D, A, B
-// - A, B, C, D
-// - C, D, B, A
-// + D, C, B, A
-// - D, C, A, B
 
 
+/*
+ ○ C, D, A, B
+
+ ○ A, B, C, D
+
+ ○ C, D, B, A
+
+ ● D, C, B, A
+
+ ○ D, C, A, B
+ */
 
 
