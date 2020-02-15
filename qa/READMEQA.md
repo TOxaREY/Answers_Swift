@@ -215,7 +215,7 @@ self.update() вызовет исключение «нет такого мето
 
 ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/QA_12.png)
 
-□ Нажатие VC #2 заставит VC #1 освободиться (deallocate).
+□ Пуш VC #2 заставит VC #1 освободиться (deallocate).
 
 □ Представление (presenting) VC #3 приведет к освобождению VC #2 и VC #1.
 
@@ -225,7 +225,7 @@ self.update() вызовет исключение «нет такого мето
 
 □ VC #1 будет освобожден после подключения к корневому VC.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_12.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_12/QA_12/ViewController.swift)
 
 ---
 
