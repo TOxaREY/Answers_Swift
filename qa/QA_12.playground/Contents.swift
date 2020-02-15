@@ -3,7 +3,7 @@ import PlaygroundSupport
 
 // Initializer omitted
 class ViewController: UIViewController {
-    privste let id: Int
+    private let id: Int
     deinit {
         print("#\(id) deallocated")
     }
