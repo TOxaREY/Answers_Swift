@@ -469,7 +469,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Диапазон stride(from:to:by:) включает значение параметра to, а диапазон stride(from:through:by:) не включает значение параметра through
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_28.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_28.md)
 
 ---
 
