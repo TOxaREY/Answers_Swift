@@ -499,7 +499,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Объявить параметр как переменный, используя ключевое слово var
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_30.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_30.md)
 
 ---
 
@@ -626,6 +626,6 @@ self.update() вызовет исключение «нет такого мето
 
 ○ 1,2 и 3
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_37.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_37.md)
 
 ---
