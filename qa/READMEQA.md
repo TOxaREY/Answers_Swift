@@ -514,7 +514,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Array, Set, Dictionary
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_31.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_31.md)
 
 ---
 
@@ -531,7 +531,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Значение переменной отсутствует
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_32.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_32.md)
 
 ---
 
@@ -546,7 +546,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Замыкания — это ссылочный тип
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_33.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_33.md)
 
 ---
 
@@ -568,7 +568,7 @@ self.update() вызовет исключение «нет такого мето
 ---
 
 #### Вопрос-Ответ 35
-Какое значение будет иметь переменная counter.п после выполнения кода?
+Какое значение будет иметь переменная counter1.n после выполнения кода?
 
 ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/QA_35.png)
 
@@ -603,7 +603,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ 1 и 3
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_36.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_36.md)
 
 ---
 
