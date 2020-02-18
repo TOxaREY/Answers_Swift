@@ -75,7 +75,7 @@
 
 ○ Нет никакой разницы. Два вызова идентичны.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_4.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_4/QA_4/ViewController.swift)
 
 ---
 
@@ -206,7 +206,7 @@ self.update() вызовет исключение «нет такого мето
 
 ○ Оба должны работать в глобальной очереди, чтобы они не заморозили UI.
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_11.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_11.md)
 
 ---
 

@@ -17,8 +17,7 @@ class MyViewController : UIViewController {
                 view.addSubview(box)
                 
                 // What goes here?
-                view.setNeedsDisplay()
-                Thread.sleep(forTimeInterval: 2)
+                
                 boxFrame.origin.x += boxFrame.width
                 print("qqq")
             }
