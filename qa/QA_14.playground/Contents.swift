@@ -11,15 +11,20 @@ class MyViewController : UIViewController {
         
         func updateProgressBar() {
             var boxFrame = CGRect(x: 10, y: 10, width: 35, height: 50)
-            for _ in 0..<10 {
-                let box = UIView(frame: boxFrame)
-                box.backgroundColor = .blue
-                view.addSubview(box)
-                
-                // What goes here?
-                
-                boxFrame.origin.x += boxFrame.width
-                print("qqq")
+            
+            DispatchQueue.global().async {
+                for _ in 0..<10 {
+                    DispatchQueue.main.async {
+                        let box = UIView(frame: boxFrame)
+                        box.backgroundColor = .blue
+                        view.addSubview(box)
+                        
+                        // What goes here?
+                        
+                        boxFrame.origin.x += boxFrame.width
+                    }
+                    sleep(2)
+                }
             }
         }
         updateProgressBar()
@@ -28,6 +33,12 @@ class MyViewController : UIViewController {
 
 // Present the view controller in the Live View window
 PlaygroundPage.current.liveView = MyViewController()
+/*
+ DispatchQueue.asyncAfter не подходит, так как задачи в очереди будут выполняться
+ асинхронно(параллельно) и цикл пробежит мгновенно.
+ Вначале мы поставим цикл в асинхроную глобальную очередь, чтобы не морозить UI,
+ а отображение на UI поставим в основной поток, оставив sleep в глобальной очереди внутри цикла.
+ */
 
 
 /*
