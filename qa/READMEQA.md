@@ -403,7 +403,7 @@ self.update() вызовет исключение «нет такого мето
 
 ![](https://github.com/TOxaREY/Answers_Swift/blob/master/image/QA_21.png)
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_21.playground/Contents.swift)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Swift/blob/master/qa/QA_21/QA_21/SecondViewController.swift)
 
 ---
 

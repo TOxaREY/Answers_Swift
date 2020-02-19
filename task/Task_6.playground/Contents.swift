@@ -48,4 +48,4 @@ func getNumberOfBoats(dwarfs: [Int], limit: Int) -> Int {
 
 let dwarfs = [3, 2, 2, 1]
 let limit = 3
-getNumberOfBoats(dwarfs: dwarfs, limit: limit)
+getNumberOfBoats(dwarfs: dwarfs, limit: limit) //3

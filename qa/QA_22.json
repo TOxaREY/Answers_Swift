@@ -1,7 +1,3 @@
-import UIKit
-import PlaygroundSupport
-
-
 [
     {
         "people": [{"name": "Ivan", "age": "22", "company": "none"},

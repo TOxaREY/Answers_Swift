@@ -46,7 +46,7 @@ PlaygroundPage.current.liveView = MyViewController()
  UIGraphicsGetCurrentContext - возвращает текущий графический контекст.
  setNeedsDisplay() - помечает весь прямоугольник границ
  получателя как подлежащий перерисовке.
- sleep(forTimeInterval:) - обработка цикла выполнения не происходит,
+ Thread.sleep(forTimeInterval:) - обработка цикла выполнения не происходит,
  пока поток заблокирован. Пользовательский интерфейс не отвечает в течение этого времени(плохо).
  */
 
